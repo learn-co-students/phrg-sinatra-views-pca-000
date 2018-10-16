@@ -111,4 +111,8 @@ It's important to note that the name of the file doesn't have to match the name 
 
 By convention though, we keep our routes and our erb files named the same. This makes it easier to keep track of as our projects get bigger.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-views/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-views/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Sinatra Views</p>
